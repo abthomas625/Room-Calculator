@@ -16,7 +16,7 @@ double area = l * w;
 double peri = 2 * (l * w);
 double vol = w * l * h;
 
-Console.WriteLine("Length: {0} {1}Width: {2} {3}Height: {4} {5}Area: {6} {7}Perimeter: {8} {9}Volume: {10} {11}",
+Console.WriteLine("Length: {0} {1}Width: {2} {3}Height: {4} {5}Area: {6} {7}Volume: {8} {9}Perimeter: {10} {11}",
 
     l, Environment.NewLine,
     w, Environment.NewLine,
